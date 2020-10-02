@@ -1,0 +1,112 @@
+
+            h1{
+                color: red;
+            }
+            h2{
+                color: crimson;
+            }
+            h3{
+                color: whitesmoke;
+            }
+            body{
+                background-color:black;
+                margin: 0px;
+            
+                
+                
+            }
+            
+     .ball span a{
+         background-color: salmon;
+         display: flex;
+         justify-content: space-around;
+         border-style: groove;
+     }
+     .header{
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-around;
+         padding: 15px;
+         margin: 16px;
+         font-size: 15px;
+     }
+     .boy{
+         border-radius: 15px;
+         
+         
+
+     }
+     a img{
+         border-style: dashed;
+     }
+     .origami h1 span{
+         border-style:dashed;
+         margin-left:530px;
+         padding: 10px;
+     
+     }
+   .img{
+         border-style: dashed;
+         
+         border-radius: 15px;
+         border-color:blue;
+     }
+     span{
+         border-style: ridge;
+         background-color: black;
+
+     }
+     .box{
+         border-style: double;
+         border-radius: 15px;
+         background-color: cyan;
+
+     }
+     .ball span{
+         border-style: dotted;
+     }
+     a:link{
+         color: white;
+
+     }
+     a:visited{
+         color:black;
+     }
+     .middle{
+       margin-left: 50%;
+      ;
+       background-color: red;
+       
+         
+     }
+     .teddy {
+         justify-content: center;
+         border-style: double;
+     }
+     .self{
+         border-style: groove;
+         border-radius: 15px;
+         justify-content: center;
+     }
+     .self2{
+         align-content: center;
+     }
+     .title{
+         background-color:white;
+     }
+.writing{
+    border-style: double;
+    border-radius: 20px;
+    border-color: red;
+
+}
+.origami{
+    border-style: double;
+    border-color: red;
+    background-color:cyan;
+}
+.box:hover img{
+  background-color: whitesmoke;
+ 
+
+}
